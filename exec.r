@@ -15,6 +15,10 @@
 #    GNU General Public License for more details.
 #
 #    For the GNU General Public License see <http://www.gnu.org/licenses/>.
+#
+#    Please see the paper:
+#    DOI: 10.1371/journal.pone.0199102 (To cite this code, please cite the paper).
+
 source("progs.r")
 
 if (FALSE) {
